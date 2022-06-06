@@ -1,0 +1,64 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#First{
+    background-color:#0D6EFD;
+    text-align: center;
+    padding: 210px 0px;
+    
+}
+#First h1{
+    color: blanchedalmond;
+font-size: 40px;
+}
+#First p{
+    color: blanchedalmond;
+    font-size: 20px;
+}
+#First a{
+text-decoration: none;
+background-color: blanchedalmond;
+color: black;
+border-radius: 5px;
+padding: 8px 16px;
+font-size: 20px;
+}
+#Second{
+    text-align: center;
+    padding: 210px 0px ;
+}
+#Second h2{
+    font-size: 32px;
+}
+#Second p{
+    font-size: 20px;
+}
+#Third{
+    text-align: center;
+    padding: 210px 0px ;
+    background-color:aliceblue;
+}
+#Third h2{
+    font-size: 32px;
+}
+#Third p{
+    font-size: 20px;
+}
+#Fourth{
+    text-align: center;
+    padding: 210px 0px ;
+}
+#Fourth h2{
+    font-size: 32px;
+}
+#Fourth p{
+    font-size: 20px;
+}
+#Fifth{
+    text-align: center;
+    padding: 50px 0px;
+    background-color: #212529;
+    color: blanchedalmond;
+    font-size: 16px;
+}
